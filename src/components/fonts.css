@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "AvenirNext";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/fonts/AvenirNextBold.ttf") format("truetype");
+  font-display: swap;
+}
